@@ -1,0 +1,145 @@
+body{
+    background-color: #F0F0F0;
+}
+
+#navHead{
+    /* align-content: center; */
+    background-color: #004D00;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.navBarItem{
+    background-color: #003300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#nav1{
+    margin-left: 10px;
+}
+.navItem{
+    margin-left: 50px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+
+ #headLine{
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#WelcomeSection{  
+    justify-content: center;
+    height: 110px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#welcome{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font: bolder;
+    padding-left: 20px;
+    padding-top: 20px;
+ }
+
+ #note{
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+ }
+
+#mainDiv{ 
+    justify-content: center;
+    height: 1000px;
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 20px;
+ }
+
+ #upcomingMassage{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font: bolder;
+    padding-left: 5px;
+    padding-top: 20px;
+    width: 1278px;
+ }
+ #note2{
+    padding-left: 5px;
+ }
+
+ .mainCourses{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+ }
+ .courses{
+    /* display:flex; */
+    align-items: center;
+    margin: 5px;
+    width: 500px;
+    height: 80px;
+    background-color: #E6E6E6;
+    border-radius: 5px;
+ }
+
+ .coursesDit{
+    display: flex;
+    margin-left: 5px;
+    text-align: left;
+    width: 150px;
+    height: max-content;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+
+.theam{
+    display:flex;
+    padding-left: 5px;
+    margin: 0px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;  
+    width: max-content;  
+ }
+ .theam:hover{
+    background-color: lightblue;
+ }
+ .instructorDit{
+    display:flex;
+    margin: 0px;
+    width: max-content;
+    margin-left: 250px; ;
+    /* margin-top: 50px; */
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;  
+    
+ }
+
+ #futter{
+    background-color: #003300;
+    height: 80px;
+    border-radius: 10px;
+    align-items: center;
+    position:fixed;
+    width:100%;
+    bottom: 0;
+ }
+ #pNote{
+    color: white;
+    text-align: center;
+ }

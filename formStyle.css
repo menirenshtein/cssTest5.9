@@ -1,0 +1,133 @@
+body{
+    background-color: #F0F0F0;
+}
+
+#navHead{
+    /* align-content: center; */
+    background-color: #004D00;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.navBarItem{
+    background-color: #003300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#nav1{
+    margin-left: 10px;
+}
+.navItem{
+    margin-left: 50px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  
+}
+#headLine{
+    font-size: 30px;
+    color: white;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#WelcomeSection{  
+    justify-content: center;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+
+#welcome{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font: bolder;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #note{
+    padding-left: 20px;
+    padding-bottom: 20px;
+    width: 400px;
+ }
+
+ .firstWord{
+    font-size: larger;
+    font:bolder;
+ }
+
+ #dit{
+    padding-left: 20px;
+    padding-top: 2px;
+ }
+
+
+
+
+
+ #futter{
+    background-color: #003300;
+    height: 80px;
+    border-radius: 10px;
+    align-items: center;
+    position:fixed;
+    width:100%;
+    bottom: 0;
+ }
+
+ #pNote{
+    color: white;
+    text-align: center;
+ }
+
+ .input{
+    display: block;
+    width: 1278px;
+    margin: 5px;
+ }
+
+ #SingUp{
+    color: green;
+    padding-left: 20px;
+    font-size: 20px;
+    font: b;
+ }
+
+ #mianDiv{
+    display: block;
+    width: 100%;
+    justify-content: center;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin: 5px;
+
+ }
+
+.inputLabel{
+    margin-top: 25px;
+    padding-left: 20px;
+    margin: 5px;
+    height: max-content;
+    padding:10px ;
+    text-align: left;
+
+ }
+
+#radios{
+    width: 120px;
+    display: block;
+}
+#gender{
+    padding-left: 20px;
+}
